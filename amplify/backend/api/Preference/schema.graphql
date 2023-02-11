@@ -1,0 +1,9 @@
+type Preference 
+  @model 
+  @key(name: "preferenceByEmailIndex", fields: ["email"], queryField: "preferenceByEmail" )
+{
+  id: ID!
+  email: String!
+  gender: String!
+  description: String
+}

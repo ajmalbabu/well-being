@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "replaceme",
+      "UnauthRoleArn": "replaceme",
+      "AuthRoleArn": "replaceme",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "replaceme",
+      "UnauthRoleName": "replaceme",
+      "StackName": "replaceme",
+      "StackId": "replaceme",
+      "AmplifyAppId": "replaceme"
+    }
+  }
+}
